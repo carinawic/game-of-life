@@ -1,7 +1,7 @@
 /*
- * En cell föds om den har exakt tre grannar. Som grannar räknas direkt intill-liggande rutor horisontellt, lodrätt eller diagonalt.
- * En cell dör om den har färre än två grannar (isolering) eller om den har fler än tre grannar (trängsel).
- * - Wikipedia
+ * En cell fï¿½ds om den har exakt tre grannar. Som grannar rï¿½knas direkt intill-liggande rutor horisontellt, lodrï¿½tt eller diagonalt.
+ * En cell dï¿½r om den har fï¿½rre ï¿½n tvï¿½ grannar (isolering) eller om den har fler ï¿½n tre grannar (trï¿½ngsel).
+ * 
  * */
 
 public class GameLogic {
